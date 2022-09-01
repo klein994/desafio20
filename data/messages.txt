@@ -6,7 +6,7 @@
       "nombre": "Alberto",
       "apellido": "Klein",
       "edad": "354",
-      "alias": "rutry",
+      "alias": "ppp",
       "avatar": "yt"
     },
     "text": "jhg",
@@ -19,10 +19,10 @@
       "nombre": "Alberto",
       "apellido": "Klein",
       "edad": "43",
-      "alias": "hfbvc",
-      "avatar": "chngv"
+      "alias": "pppp",
+      "avatar": "pp"
     },
-    "text": "gfjn ",
+    "text": "pp ",
     "dateString": "2022/8/31 20:56:34"
   },
   {
@@ -32,8 +32,8 @@
       "nombre": "Alberto",
       "apellido": "Klein",
       "edad": "43",
-      "alias": "hfbvc",
-      "avatar": "chngv"
+      "alias": "ppppp",
+      "avatar": "ppppp"
     },
     "text": "gfjn ",
     "dateString": "2022/8/31 20:56:34"
@@ -149,8 +149,8 @@
       "nombre": "Alberto",
       "apellido": "Klein",
       "edad": "43",
-      "alias": "hfbvc",
-      "avatar": "chngv"
+      "alias": "sdrtjdrt",
+      "avatar": "chdsrjngv"
     },
     "text": "gfjn ",
     "dateString": "2022/8/31 20:56:38"
@@ -162,8 +162,8 @@
       "nombre": "Alberto",
       "apellido": "Klein",
       "edad": "43",
-      "alias": "hfbvc",
-      "avatar": "chngv"
+      "alias": "sj",
+      "avatar": "chnsrtjgv"
     },
     "text": "gfjn ",
     "dateString": "2022/8/31 20:56:38"
